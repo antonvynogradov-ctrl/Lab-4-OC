@@ -101,7 +101,7 @@ Android використовує модифіковане ядро Linux, том
 
 ---
 
-## ✅ Комплексний висновок
+## Комплексний висновок
 
 В ході виконання лабораторної роботи №4 нами було детально вивчено архітектуру управління процесами в ОС Linux. Ми на практиці опанували інструментарій для моніторингу системних ресурсів, навчилися маніпулювати пріоритетами задач та використовувати віртуальні інтерфейси ядра.
 
@@ -109,6 +109,6 @@ Android використовує модифіковане ядро Linux, том
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 During this research, we thoroughly examined the mechanisms of process management within the Linux ecosystem. We acquired essential skills in utilizing CLI tools for system diagnostics, including identifying resource-heavy tasks and controlling process execution states. Understanding the parent-child hierarchy and the /proc filesystem provides a solid foundation for further studies in server administration and DevOps engineering.
